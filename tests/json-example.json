@@ -1,0 +1,15 @@
+{
+	"name": "One Piece",
+	"symbol": "ZORO",
+	"description": "Zebec Test NFT ft. One Piece",
+	"image": "https://drive.google.com/file/d/1epJqO-NVYH21UIfR7e_Y9CV1pBERPpk0/view?usp=sharing",
+	"attributes": [],
+	"properties": {
+		"files": [
+			{
+				"uri": "https://drive.google.com/file/d/1epJqO-NVYH21UIfR7e_Y9CV1pBERPpk0/view?usp=sharing",
+				"type": "image/jpeg"
+			}
+		]
+	}
+}
