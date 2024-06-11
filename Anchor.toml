@@ -1,0 +1,19 @@
+[features]
+seeds = false
+skip-lint = false
+
+[programs.localnet]
+solana_mint_nft = "CPCyFBNubC3KFm3kRqjnwFv2kzH2P8E9SxdzCFyFADru"
+
+[programs.devnet]
+solana_mint_nft = "CPCyFBNubC3KFm3kRqjnwFv2kzH2P8E9SxdzCFyFADru"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/Users/chou/.config/solana/id.json"
+
+[scripts]
+mint-nft = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
