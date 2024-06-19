@@ -1,13 +1,13 @@
 {
-	"name": "One Piece",
-	"symbol": "ZORO",
-	"description": "Zebec Test NFT ft. One Piece",
-	"image": "https://searx.tiekoetter.com/image_proxy?url=https%3A%2F%2Fpiq.codeus.net%2Fstatic%2Fmedia%2Fuserpics%2Fpiq_32484_400x400.png&h=9a9097c334fb28672d313df98198495e7de6463d24c4d3a159e6c5e40ea87284",
+	"name": "One Piece cNft",
+	"symbol": "cZORO",
+	"description": "Zebec Test cNFT ft. One Piece cNft",
+	"image": "https://app.ardrive.io/#/file/a8a85cd4-b3af-41ef-aad9-eaae0eb67546/view",
 	"attributes": [],
 	"properties": {
 		"files": [
 			{
-				"uri": "https://searx.tiekoetter.com/image_proxy?url=https%3A%2F%2Fpiq.codeus.net%2Fstatic%2Fmedia%2Fuserpics%2Fpiq_32484_400x400.png&h=9a9097c334fb28672d313df98198495e7de6463d24c4d3a159e6c5e40ea87284",
+				"uri": "https://app.ardrive.io/#/file/a8a85cd4-b3af-41ef-aad9-eaae0eb67546/view",
 				"type": "image/jpeg"
 			}
 		]
